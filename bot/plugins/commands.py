@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '📢 Our Group', url="https://t.me/filmbox_v2"
+                                    '📢 Our Channel', url="https://t.me/filmbox_0"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '📢 Our Group', url="https://t.me/filmbox_v2"
+                                    '📢 Our Channel', url="https://t.me/filmbox_0"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '📢 Our Group', url="https://t.me/filmbox_v2"
+                                   '📢 Our Channel', url="https://t.me/filmbox_0"
                                 )
                         ]
                     ]
